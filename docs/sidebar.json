@@ -1,10 +1,9 @@
 {
-  "Notebook": {
-    "Export to modules": "/export",
-    "Convert to html": "/export2html",
-    "Show doc": "/showdoc",
-    "Test functions": "/test",
-    "Core functions": "/core",
-    "Command line functions": "/cli"
+  "rural": {
+    "Overview": "/",
+    "Title": "/only",
+    "Log 'CBSA Level' Missing Data": "/log_CBSA_problems",
+    "Identify records with incorrect CBSA data": "/CBSA_problem_records",
+    "----------------------------------------------------------------": "/tracts_in_urban_areas"
   }
 }
